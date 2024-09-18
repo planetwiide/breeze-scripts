@@ -1,6 +1,6 @@
 /*
 name: TimerRange
-author: PoulpyUwU :3
+author: PoulpyUwU / poulpy.so
 */
 
 breeze.registerModule("TimerRange", "Reach using timer", {
